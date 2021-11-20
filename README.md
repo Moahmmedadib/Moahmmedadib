@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moahmmedadib
 - 👀 I’m interested in Learning Deep Learning and AI
-- 🌱 I’m currently learning Machine laerning
+- 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me mohammeedadib@gmail.com
 
